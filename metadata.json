@@ -1,0 +1,6 @@
+{
+  "name": "ZIKO - سكريبت زيكو للتوقعات الذكية",
+  "description": "سكريبت زيكو (ZIKO) الاحترافي للتوقعات الذكية ومفاتيح التفعيل العشوائية عبر الخطوات والبرومو كود R11 بنسخة PHP الكاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
