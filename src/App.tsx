@@ -1100,7 +1100,7 @@ export default function App() {
                   <div className="flex items-center justify-center gap-4" dir="ltr">
                     <div className="min-w-[110px] rounded-xl border border-[#E11D2E]/30 bg-black/55 px-4 py-3 text-center">
                       <span className="block font-mono text-2xl font-black leading-none tracking-wider text-white">
-                        220
+                        120
                       </span>
                       <span className="mt-1.5 block text-[9px] font-bold uppercase tracking-[0.2em] text-[#FF5261]">
                         جنيه مصري
@@ -1111,7 +1111,7 @@ export default function App() {
                     </span>
                     <div className="min-w-[110px] rounded-xl border border-[#E11D2E]/30 bg-black/55 px-4 py-3 text-center">
                       <span className="block font-mono text-2xl font-black leading-none tracking-wider text-white">
-                        4$
+                        3$
                       </span>
                       <span className="mt-1.5 block text-[9px] font-bold uppercase tracking-[0.2em] text-[#FF5261]">
                         USD
