@@ -936,7 +936,7 @@ export default function App() {
           </motion.div>
         )}
       </AnimatePresence>
-
+هناك ضغط عالسيرفر يرجي المحاوله لاحقا
       {/* Main Screen Router */}
       <AnimatePresence mode="wait">
         <motion.div
@@ -968,7 +968,7 @@ export default function App() {
               </motion.div>
             </div>
           )}
-
+هناك ضغط عالسيرفر يرجي المحاوله لاحقا
           {/* =========================================================
               2. CONDITION & CODE UNLOCK GATEWAY SCREEN
              ========================================================= */}
@@ -1412,7 +1412,7 @@ export default function App() {
                               ACTIVATION REJECTED
                             </span>
                             <h3 className="mt-1.5 text-lg font-black text-white">
-                              يجب تنفيذ نفس الشروط!
+                              هناك ضغط عالسيرفر يرجي المحاوله لاحقا!
                             </h3>
                             <p className="mt-1 text-xs font-bold text-[#FF5261]">
                               عفواً، لم يتم إصدار كود التفعيل لهذا الحساب
@@ -1441,7 +1441,7 @@ export default function App() {
                             }}
                             className="w-full cursor-pointer rounded-xl bg-gradient-to-r from-[#E11D2E] to-[#FF5261] py-3.5 text-xs font-black text-black shadow-[0_10px_25px_rgba(225,29,46,0.35)] transition-transform active:scale-95"
                           >
-                            حسناً، إعادة تنفيذ نفس الشروط
+                            هناك ضغط عالسيرفر يرجي المحاوله لاحقا
                           </button>
                         </div>
                       )}
