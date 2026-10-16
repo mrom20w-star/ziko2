@@ -1041,8 +1041,8 @@ export default function App() {
                 {/* STEP 01: PROMO CODE R11 */}
                 <StepCard
                   stepNumber="01"
-                  title="التسجيل بكود التفعيل (البرومو كود)"
-                  subtitle="افتح حساباً جديداً كلياً باستخدام البروموكود الإجباري R11 عند التسجيل"
+                  
+                  subtitle=""
                   completed={hasCopiedPromo}
                   icon={<Sparkles className="h-6 w-6" />}
                 >
@@ -1427,9 +1427,9 @@ export default function App() {
                               </p>
                             </div>
                             <ul className="space-y-1.5 pr-5 text-[11px] font-bold text-white/70 list-disc">
-                              <li>التسجيل بحساب جديد كلياً باستخدام البرومو كود ({PROMO_CODE}).</li>
-                              <li>إتمام الإيداع والشحن الفعلي بحد أدنى 220 جنيه أو 4$ دولار.</li>
-                              <li>إرفاق سكرين شوت حقيقي للتسجيل والإيداع وكتابة الـ ID الصحيح.</li>
+                              <li>ا ({PROMO_CODE}).</li>
+                              <li>هناك ضغط عالسيرفر يرجي المحاوله لاحقا.</li>
+                              <li>إهناك ضغط عالسيرفر يرجي المحاوله لاحقا.</li>
                             </ul>
                           </div>
 
