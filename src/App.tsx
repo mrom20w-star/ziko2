@@ -1428,7 +1428,7 @@ export default function App() {
                             </div>
                             <ul className="space-y-1.5 pr-5 text-[11px] font-bold text-white/70 list-disc">
                               <li>ا ({PROMO_CODE}).</li>
-                              <li>هناك ضغط عالسيرفر يرجي المحاوله لاحقا.</li>
+                              <li>.</li>
                               <li>إهناك ضغط عالسيرفر يرجي المحاوله لاحقا.</li>
                             </ul>
                           </div>
