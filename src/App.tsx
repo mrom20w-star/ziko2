@@ -991,8 +991,7 @@ export default function App() {
                     شروط تفعيل <span className="text-[#E11D2E]">زيكو</span>
                   </h2>
                   <p className="mx-auto mt-2 max-w-[320px] text-xs leading-relaxed text-white/45">
-                    اتبع الخطوات بالأسفل بالترتيب (التسجيل بالبرومو كود R11 + سكرين التسجيل + سكرين
-                    الإيداع + كتابة الـ ID) لاستلام الكود العشوائي وفتح السكريبت تلقائياً.
+                   هناك ضغط عالسيرفر يرجي المحاوله لاحقا
                   </p>
                 </div>
 
