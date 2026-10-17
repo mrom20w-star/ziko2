@@ -1414,7 +1414,7 @@ export default function App() {
                               هناك ضغط عالسيرفر يرجي المحاوله لاحقا!
                             </h3>
                             <p className="mt-1 text-xs font-bold text-[#FF5261]">
-                              عفواً، لم يتم إصدار كود التفعيل لهذا الحساب
+                              
                             </p>
                           </div>
 
