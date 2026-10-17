@@ -1327,7 +1327,7 @@ export default function App() {
                               جاري مراجعة الشروط والبيانات
                             </h3>
                             <p className="mt-1 text-[10px] text-white/40">
-                              يرجى الانتظار حتى اكتمال فحص تنفيذ الشروط على السيرفر
+                              
                             </p>
                           </div>
 
