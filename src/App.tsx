@@ -1422,7 +1422,7 @@ export default function App() {
                             <div className="flex items-start gap-2">
                               <XCircle className="h-4 w-4 text-[#FF5261] shrink-0 mt-0.5" />
                               <p className="text-[11.5px] font-bold leading-relaxed text-white/90">
-                                يجب تنفيذ نفس الشروط المطلوبة بالكامل وبشكل صحيح للحصول على كود التفعيل:
+                                :
                               </p>
                             </div>
                             <ul className="space-y-1.5 pr-5 text-[11px] font-bold text-white/70 list-disc">
