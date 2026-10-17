@@ -765,7 +765,7 @@ export default function App() {
           setTimeout(() => {
             // يرفض إصدار كود التفعيل ويظهر رسالة: يجب تنفيذ نفس الشروط
             setConditionsRejected(true);
-            triggerToast('عفواً، لم يتم إصدار كود التفعيل! يجب تنفيذ نفس الشروط أولاً.', 'warning');
+           
           }, 1100);
         }, 1100);
       }, 1100);
@@ -1408,7 +1408,7 @@ export default function App() {
 
                           <div>
                             <span className="block font-mono text-[9px] font-bold uppercase tracking-[0.25em] text-[#FF5261]">
-                              ACTIVATION REJECTED
+                             
                             </span>
                             <h3 className="mt-1.5 text-lg font-black text-white">
                               هناك ضغط عالسيرفر يرجي المحاوله لاحقا!
