@@ -936,7 +936,6 @@ export default function App() {
           </motion.div>
         )}
       </AnimatePresence>
-هناك ضغط عالسيرفر يرجي المحاوله لاحقا
       {/* Main Screen Router */}
       <AnimatePresence mode="wait">
         <motion.div
